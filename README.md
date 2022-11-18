@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @b0iq
-- 👀 I’m interested in software and hardware programming
-- 💞️ I’m looking to collaborate on React, React Native and Swift projects
-- 📫 How to reach me contact@b0iq.com
+`undefined`
